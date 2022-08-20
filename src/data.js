@@ -4,9 +4,9 @@ function chillHop() {
     {
       name: "Beaver Creek",
       cover:
-        "https://chillhop.com/wp-content/uploads/2020/09/0255e8b8c74c90d4a27c594b3452b2daafae608d-1024x1024.jpg",
-      artist: "Aso, Middle School, Aviino",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=10075",
+        "https://storage.googleapis.com/tepedu/images/reel.png",
+      artist: "Intro",
+      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/1._intro.m4a",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: true,
@@ -14,9 +14,9 @@ function chillHop() {
     {
       name: "Daylight",
       cover:
-        "https://chillhop.com/wp-content/uploads/2020/07/ef95e219a44869318b7806e9f0f794a1f9c451e4-1024x1024.jpg",
-      artist: "Aiguille",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=9272",
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "Variable",
+      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/2._Variable.m4a",
       color: ["#EF8EA9", "#ab417f"],
       id: uuidv4(),
       active: false,
