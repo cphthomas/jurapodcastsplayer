@@ -2,7 +2,7 @@ import { v4 as uuidv4 } from "uuid";
 function chillHop() {
   return [
     {
-      name: "Intro",
+      name: "1. Intro",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "Intro",
@@ -12,7 +12,7 @@ function chillHop() {
       active: true,
     },
     {
-      name: "Variable",
+      name: "2. Variable",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
@@ -22,37 +22,57 @@ function chillHop() {
       active: false,
     },
     {
-      name: "Keep Going",
+      name: "3. Beskrivende statistik",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/2._Variable.m4a",
+      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/3._Beskrivende_statistik.m4a",
       color: ["#CD607D", "#c94043"],
       id: uuidv4(),
       active: false,
     },
     {
-      name: "Nightfall",
+      name: "4. Normalfordelingen",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/2._Variable.m4a",
+      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/4._Normalfordelingen.m4a",
       color: ["#EF8EA9", "#ab417f"],
       id: uuidv4(),
       active: false,
     },
     {
-      name: "Reflection",
+      name: "5. Konfidensintervaller",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://mp3.chillhop.com/serve.php/?mp3=9228",
+      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/5._Konfidensintervaller_kvantitative_variable.m4a",
       color: ["#CD607D", "#c94043"],
       id: uuidv4(),
       active: false,
     },
     {
-      name: "Under the City Stars",
+      name: "6. Hypotesetests for kvantitative variable",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/6.0._Hypotesetests_kvantitative_variable.m4a",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+     {
+      name: "7. Konfidensinterval for en andele",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/7.0_Konfidensinterval_1_andel.m4a",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+     {
+      name: "8.",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
@@ -62,27 +82,7 @@ function chillHop() {
       active: false,
     },
      {
-      name: "Under the City Stars",
-      cover:
-        "https://storage.googleapis.com/tepedu/images/reel2.png",
-      artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/2._Variable.m4a",
-      color: ["#205950", "#2ab3bf"],
-      id: uuidv4(),
-      active: false,
-    },
-     {
-      name: "Under the City Stars",
-      cover:
-        "https://storage.googleapis.com/tepedu/images/reel2.png",
-      artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/2._Variable.m4a",
-      color: ["#205950", "#2ab3bf"],
-      id: uuidv4(),
-      active: false,
-    },
-     {
-      name: "Under the City Stars",
+      name: "9.",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
