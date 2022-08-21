@@ -42,7 +42,7 @@ function chillHop() {
       active: false,
     },
     {
-      name: "5. Konfidensintervaller",
+      name: "5. Konfidensintervaller for kvantitative variable",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
@@ -61,12 +61,32 @@ function chillHop() {
       id: uuidv4(),
       active: false,
     },
+    {
+      name: "6.1 Type 1 og type 2 fejl",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/6.1_Type_1_og_type_2_fejl.m4a",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
      {
-      name: "7. Konfidensinterval for en andele",
+      name: "7. Konfidensinterval 1 andel",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
       audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/7.0_Konfidensinterval_1_andel.m4a",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "7.1 Test 1 andel",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/7.1_Test_1_andel.m4a",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
