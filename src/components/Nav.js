@@ -1,6 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faMusic, faPodcast } from "@fortawesome/free-solid-svg-icons";
+import { faList } from "@fortawesome/free-solid-svg-icons";
 
 const Nav = ({ setLibraryStatus, libraryStatus }) => {
   const openLibraryHandler = () => {
@@ -15,7 +15,7 @@ const Nav = ({ setLibraryStatus, libraryStatus }) => {
         onClick={openLibraryHandler}
       >
         {!libraryStatus ? "Alle podcasts ":"Luk listen "}
-        <FontAwesomeIcon icon={faPodcast}></FontAwesomeIcon>
+        <FontAwesomeIcon icon={faList}></FontAwesomeIcon>
       </button>
     </nav>
   );
