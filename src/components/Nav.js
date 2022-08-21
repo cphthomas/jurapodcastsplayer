@@ -11,10 +11,10 @@ const Nav = ({ setLibraryStatus, libraryStatus }) => {
     <nav>
       {/* <h1>Waves</h1> */}
       <button
-        className={libraryStatus ? "library-active" : ""}
+        className={!libraryStatus ? "library-active" : ""}
         onClick={openLibraryHandler}
       >
-        Statistik podcasts &nbsp;
+        {!libraryStatus ? "Alle podcasts ":"Luk listen "}
         <FontAwesomeIcon icon={faPodcast}></FontAwesomeIcon>
       </button>
     </nav>
