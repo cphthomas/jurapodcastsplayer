@@ -2,11 +2,11 @@ import { v4 as uuidv4 } from "uuid";
 function chillHop() {
   return [
     {
-      name: "1. Intro",
+      name: "3.1. borde og stole",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
-      artist: "Intro",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/1._intro.m4a",
+      artist: "3.1. borde og stole",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_3_1_borde_og_stole_as_unfeyo.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: true,
