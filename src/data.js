@@ -5,7 +5,7 @@ function chillHop() {
       name: "1. Intro",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
-      artist: "Intro ",
+      artist: "Intro",
       audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/1._intro.m4a",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
