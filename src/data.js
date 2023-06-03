@@ -12,7 +12,7 @@ function chillHop() {
       active: true,
     },
     {
-      name: "2. Variable",
+      name: "3.2 Eksamensopgave Hundekiks og tudekiks",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
@@ -22,61 +22,61 @@ function chillHop() {
       active: false,
     },
     {
-      name: "3. Beskrivende statistik",
+      name: "4.1 Eksamensopgave jem og fix",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/3._Beskrivende_statistik.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_4_1_jem_og_fix_aw9bku.mp3",
       color: ["#CD607D", "#c94043"],
       id: uuidv4(),
       active: false,
     },
     {
-      name: "4. Normalfordelingen",
+      name: "6.1 Eksamensopgave Ejendomshandleren",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/4._Normalfordelingen.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_4_1_jem_og_fix_aw9bku.mp3",
       color: ["#EF8EA9", "#ab417f"],
       id: uuidv4(),
       active: false,
     },
     {
-      name: "5. Konfidensintervaller for kvantitative variable",
+      name: "6.2 Eksamensopgave Murermester Madsen",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/5._Konfidensintervaller_kvantitative_variable.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_6_2_murermester_madsen_dngsdc.mp3",
       color: ["#CD607D", "#c94043"],
       id: uuidv4(),
       active: false,
     },
     {
-      name: "6. Hypotesetests for kvantitative variable",
+      name: "6.3 Eksamensopgave Randers Boldklub",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/6.0._Hypotesetests_kvantitative_variable.m4a",
+      audio: "7.1 Eksamensopgave Brugtvognshandleren",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
     {
-      name: "7. Type 1 og type 2 fejl",
+      name: "7.1 Eksamensopgave Brugtvognshandleren",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/6.1_Type_1_og_type_2_fejl.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_7_1_b_rge_brugtvognsforhandler_byr8xa.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
      {
-      name: "8. Konfidensinterval 1 andel",
+      name: "8.1 Eksamensopgave Ivar Justesen",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/7.0_Konfidensinterval_1_andel.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_8_1_ivar_justesen_sjngb8.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
