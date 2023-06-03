@@ -82,156 +82,590 @@ function chillHop() {
       active: false,
     },
     {
-      name: "9. Test 1 andel",
+      name: "9.1 Eksamensopgave Ejendomsmæglerens Konkurs",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/7.1_Test_1_andel.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_9_1_ejendomsm_glerens_konkurs_vptmnp.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
      {
-      name: "10. Test af 2 andele",
+      name: "9.2 Eksamensopgave Grossistens Bekymringer",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/8._Test_af_2_andele.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_9_2_grossistens_bekymringer_stkmu8.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
      {
-      name: "11. Test af 2 middelværdier",
+      name: "9.3 Eksamensopgave Bertil og Tina",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/9._Test_af_2_middelv%C3%A6rdier.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_9_3_t_mrermester_bertil_jaobsen_og_tina_jensen_vdmurf.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
     {
-      name: "12. Korrelation",
+      name: "9.4 Eksamensopgave Lottogevinsten",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/10._Korrelation.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_9_4_lottogevinsten_n962mg.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
 
      {
-      name: "13. Simpel regression",
+      name: "9.5 Eksamensopgave Jeanett Apollo",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/11.1_Simpel_line%C3%A6r_regression.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_9_5_jenett_apollo_gwl9al.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
 
      {
-      name: "14. Multipel lineær regression",
+      name: "9.6 Eksamensopgave Joachim",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/11.2_Multipel_line%C3%A6r_regression.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_9_6_joachim_ymqykz.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
 
      {
-      name: "15. Lineær regression forudsætninger",
+      name: "9.7 Eksamensopgave Knudsen Properties",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/11.3_Line%C3%A6r_regression_foruds%C3%A6tninger.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_9_7_knudsen_properties_v_dennis_knudsen_vmksbx.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
 
      {
-      name: "16. Stikprøver",
+      name: "10.1 Eksamensopgave Kunst og Kærlighed",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/15._Stikpr%C3%B8veudv%C3%A6lgelse.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_10_1_kunst_og_k_rlighed_siq935.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
 
      {
-      name: "17. Chi i anden tests",
+      name: "10.2 Eksamensopgave Olsen",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/17.1_Chi_i_anden_tests.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_10_2_b%C3%B8rge_olsen_wun6np.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
 
      {
-      name: "18. Goodness-of-fit tests",
+      name: "10.3 Eksamensopgave Bo Bjerrehus",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/17.2_Goodness_of_fit_test.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_10_3_bo_bjerrehus_dg3dwm.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
 
      {
-      name: "19. ANOVA",
+      name: "11.1 Eksamensopgave Temafesten",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/18._ANOVA.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_11_1_prinsessef_dselsdagen_itzz9f.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
 
      {
-      name: "20. Faktoranalyse",
+      name: "11.2 Eksamensopgave Jens Peters Landejendom",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/20._Faktoranalyse.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_11_2_jens_peters_landejendom_g9k03p.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
 
      {
-      name: "21. Klyngeanalyse",
+      name: "11.3 Eksamensopgave Travlhed i Kreditafdelingen",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/21._Klyngeanalyse.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_11_3_travlhed_i_kreditafdelingen_saigfq.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
 
      {
-      name: "22. ARIMA",
+      name: "14.1 Eksamensopgave Biler og dyre vaner",
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/22._ARIMA.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_14_1_fine_biler_og_dyre_vaner_awnyjo.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
     },
-    //ADD MORE HERE
+
+     {
+      name: "14.2 Eksamensopgave Musik med problemer",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_14_2_musik_med_problemer_wgv0bt.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    
+
+     {
+      name: "14.3 Eksamensopgave Taeppehandleren",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_14_3_t_ppehandleren_fra_sor_fbmdlt.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "14.4 Eksamensopgave Moebler med prioritet",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_14_4_m_blerne_med_prioritet_1_vby6uh.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "14.5 Eksamensopgave Smykkefirmaet Frandsen",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_14_5_smykkefirmaet_frandsen_a_s_sug5yx.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "14.6 Eksamensopgave Økologi og kassevogn",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_14_6_kologi_og_kassevogn_e3jpnd.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "16.1 Eksamensopgave Kalle og Sille",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_16_1_kalle_og_silles_bolighandler_ufcxq3.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    {
+      name: "16.2 Eksamensopgave Jeg fik jobbet mor",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_16_2_jeg_fik_jobbet_mor_rlp6re.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "16.3 Eksamensopgave Anna og Oline",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_16_3_ejendomsm_glerne_anna_og_oline_rlwk21.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "17.1 Eksamensopgave Bo og Jette",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_17_1_bo_og_jettes_gteskab_lz0mdc.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "17.2 Eksamensopgave Anders og Pernille",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_17_2_anders_og_pernilles_gteskab_wivry9.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "1 Aftaleloven",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/Podcast%20Aftaleloven/kapitel_2_aftaleloven_podcast_1_fedpcd.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "2 Aftaleloven",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/Podcast%20Aftaleloven/kapitel_2_aftaleloven_podcast_2_gvbzaa.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "3 Aftaleloven",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/Podcast%20Aftaleloven/kapitel_2_aftaleloven_podcast_3_x0a744.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "4 Aftaleloven",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/Podcast%20Aftaleloven/kapitel_2_aftaleloven_podcast_4_m6l6hy.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "5 Aftaleloven",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/Podcast%20Aftaleloven/kapitel_2_aftaleloven_podcast_5_bpo4tm.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "6 Aftaleloven",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/Podcast%20Aftaleloven/kapitel_2_aftaleloven_podcast_6_grks5b.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "7 Aftaleloven",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/Podcast%20Aftaleloven/kapitel_2_aftaleloven_podcast_7_nte6vy.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "8 Aftaleloven",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/Podcast%20Aftaleloven/kapitel_2_aftaleloven_podcast_8_gcfvuk.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "9 Aftaleloven",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/Podcast%20Aftaleloven/kapitel_2_aftaleloven_podcast_9_yzzkg8.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "10 Aftaleloven",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/Podcast%20Aftaleloven/kapitel_2_aftaleloven_podcast_10_jmyz7i.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "11 Aftaleloven",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/Podcast%20Aftaleloven/kapitel_2_aftaleloven_podcast_11_wty04r.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "12 Aftaleloven",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/Podcast%20Aftaleloven/kapitel_2_aftaleloven_podcast_12_gnkq1t.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+     {
+      name: "13 Aftaleloven",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/Podcast%20Aftaleloven/kapitel_2_aftaleloven_podcast_13_xpczon.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+     {
+      name: "14 Aftaleloven",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/Podcast%20Aftaleloven/kapitel_2_aftaleloven_podcast_14_iea6wh.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    {
+      name: "Personoplysninger GDPR 1",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/podcast_om_GDPR_fra_datatilsynet/1_hvad_er_personoplysninger_be8rye.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    {
+      name: "Personoplysninger GDPR 2",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/podcast_om_GDPR_fra_datatilsynet/2_hvorna_r_ma_du_behandle_personoplysninger_oh4cyv.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    {
+      name: "Samtykke GDPR 3",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/podcast_om_GDPR_fra_datatilsynet/3_samtykke_hvorna_r_og_hvordan_hlujxq.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    {
+      name: "Personalepolitik GDPR 4",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/podcast_om_GDPR_fra_datatilsynet/4_hvordan_laver_man_en_god_persondatapolitik_qp5oav.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    {
+      name: "De registrerede GDPR 5",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/podcast_om_GDPR_fra_datatilsynet/5_de_registreredes_rettigheder_og_virksomhedernes_forpligtelser_sxeuvc.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    {
+      name: "Sletning GDPR 6",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/podcast_om_GDPR_fra_datatilsynet/6_sletning_hvorna_r_og_hvordan_eo1660.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    {
+      name: "Brug af billeder GDPR 7",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/podcast_om_GDPR_fra_datatilsynet/7_brug_af_billeder_s9kzzi.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+   
+
+    {
+      name: "Databeskyttelse HR GDPR 8",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/podcast_om_GDPR_fra_datatilsynet/8_databeskyttelse_ved_ans_ttelsesforhold_vx7grd.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    {
+      name: "Optagelse telefon GDPR 9",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/podcast_om_GDPR_fra_datatilsynet/9_optagelse_af_telefonsamtaler_hvad_siger_reglerne_z6audn.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    {
+      name: "Tredielandsoverfoersler GDPR 10",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/podcast_om_GDPR_fra_datatilsynet/10_tredjelandsoverf_rsler_hvorna_r_og_hvad_g_lder_qe8kl3.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    {
+      name: "TV overvaagning GDPR 11",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/podcast_om_GDPR_fra_datatilsynet/11_tv_overvaagning_marie_gcwsiy.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    {
+      name: "Risikovurdering GDPR 12",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/podcast_om_GDPR_fra_datatilsynet/12_risikovurderinger_allan_culfpm.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    {
+      name: "Sikkerhedsbrud GDPR 13",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/podcast_om_GDPR_fra_datatilsynet/13_sikkerhedsbrud_xenia_hjyntg.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    {
+      name: "Cloud GDPR 14",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/podcast_om_GDPR_fra_datatilsynet/14_cloud_allan_victor_rkgjdi.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+     {
+      name: "Databeskyttelse design GDPR 15",
+      cover:
+        "https://storage.googleapis.com/tepedu/images/reel2.png",
+      artist: "",
+      audio: "https://storage.googleapis.com/tepedu/podcast_om_GDPR_fra_datatilsynet/15_databeskyttelse_design_allan_rqutow.mp3",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: false,
+    },
+
+    
+
+      //ADD MORE HERE
   ];
 }
 
