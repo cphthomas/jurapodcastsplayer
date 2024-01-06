@@ -16,7 +16,7 @@ function chillHop() {
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "https://storage.googleapis.com/tepedu/statistik_podcasts/2._Variable.m4a",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_3_2_hundekiks_og_tudekiks_quvbfn.mp3",
       color: ["#EF8EA9", "#ab417f"],
       id: uuidv4(),
       active: false,
