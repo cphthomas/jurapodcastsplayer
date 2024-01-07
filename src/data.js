@@ -56,7 +56,7 @@ function chillHop() {
       cover:
         "https://storage.googleapis.com/tepedu/images/reel2.png",
       artist: "",
-      audio: "7.1 Eksamensopgave Brugtvognshandleren",
+      audio: "https://storage.googleapis.com/tepedu/jura_eksamens_podcasts/podcast_eksamensopgave_6_3_randers_boldklub_rs4bzm.mp3",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
